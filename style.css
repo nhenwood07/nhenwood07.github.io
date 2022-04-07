@@ -73,12 +73,6 @@ h2{
     padding: 5px;
   }
 
-  .row::after {
-    clear: both;
-    display: table;
-    content: "";
-  }
-    
   .group:after {
     content: "";
     display: table;
