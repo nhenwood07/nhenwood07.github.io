@@ -30,7 +30,7 @@ a:hover, a:active {
     float: left; 
 }
 a:link, a:visited {
-    background-color: #cd88c1;
+    background-color: plum;
     color: white;
     padding: 14px 25px;
     text-align: center;
