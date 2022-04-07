@@ -32,8 +32,9 @@ a:hover, a:active {
 a:link, a:visited {
     background-color: #cd88c1;
     color: white;
-    padding: 15px 25px;
-    text-align: center;;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
     display: inline-block;
   }
 
