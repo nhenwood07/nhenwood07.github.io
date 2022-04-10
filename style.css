@@ -28,6 +28,7 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: #cd88c1;
     color: white;
+    text-align: center;
 }
 
 .lineone{
