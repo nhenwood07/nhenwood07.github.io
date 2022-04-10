@@ -16,7 +16,7 @@ span.navigation{
 }
 
 a:hover, a:active {
-    background-color: #cd88c1 ;
+    background-color: #cd88c1;
 }
 
 .lineone{
@@ -31,7 +31,7 @@ a:hover, a:active {
     float: left; 
 }
 a:link, a:visited {
-    background-color: plum;
+    border: 2px solid #cd88c1; 
     color: white;
     padding: 14px 25px;
     text-align: center;
