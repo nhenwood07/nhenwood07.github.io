@@ -11,6 +11,11 @@ span.navigation{
     float:right;
 }
 
+.nav-url{
+    display: block;
+    margin: auto;
+}
+
 a:hover, a:active {
     background-color: #cd88c1 ;
 }
