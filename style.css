@@ -17,6 +17,7 @@ span.navigation{
 
 a:hover, a:active {
     background-color: #cd88c1;
+    color: white;
 }
 
 .lineone{
